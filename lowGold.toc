@@ -1,0 +1,15 @@
+## Interface: 30300
+
+## Title: lowGold
+## Notes: Minimal LibDataBroker-based Gold display
+## Author: Lowlee
+## Version: 3.3.5.0
+## X-Email: lowlee@lowlee.info
+## X-Category: Misc
+## SavedVariables: lowGoldDB
+
+LibStub.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+lowGold.lua
