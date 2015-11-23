@@ -1,9 +1,9 @@
-## Interface: 50400
+## Interface: 60200
 
 ## Title: lowGold
 ## Notes: Minimal LibDataBroker-based Gold display
 ## Author: Lowlee
-## Version: 5.4.8.0
+## Version: 6.2.3.0
 ## X-Email: lowlee@lowlee.info
 ## X-Category: Misc
 ## SavedVariables: lowGoldDB
