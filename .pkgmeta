@@ -1,2 +1,4 @@
 package-as: lowGold
 wowi-archive-previous: yes
+
+manual-changelog: changelog.txt

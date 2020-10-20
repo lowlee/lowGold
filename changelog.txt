@@ -1,3 +1,5 @@
+9.0.1.1
+  Add auto release (Using BigWigs release script)
 9.0.1.0
   Bump TOC and version number
 7.3.5.0
