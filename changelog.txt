@@ -1,5 +1,7 @@
-9.0.1.1
+9.0.1.2
   Add auto release (Using BigWigs release script)
+9.0.1.1
+  Setting up for auto release of addon
 9.0.1.0
   Bump TOC and version number
 7.3.5.0
