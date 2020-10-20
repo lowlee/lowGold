@@ -3,9 +3,11 @@
 ## Title: lowGold
 ## Notes: Minimal LibDataBroker-based Gold display
 ## Author: Lowlee
-## Version: 9.0.1.0
+## Version: @project-version@
 ## X-Email: lowlee@lowlee.info
 ## X-Category: Misc
+## X-WoWI-ID: 17079
+
 ## SavedVariables: lowGoldDB
 
 Libs\LibStub\LibStub.lua
